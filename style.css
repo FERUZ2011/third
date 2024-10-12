@@ -1,0 +1,23 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+.big{
+width: 1000px;
+height: 1000px;
+background-color: crimson;
+border: 5px solid black ;
+border-radius: 32px;
+}
+
+.small{
+    width: 94px;
+    height: 94px;
+    background-color: orange;
+    border: 5px solid black ;
+    border-radius: 32px;
+
+
+}
